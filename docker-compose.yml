@@ -1,0 +1,9 @@
+services:
+  lab12:
+    build: .
+    ports:
+      - 3000:3000
+    command:
+      npm start
+    volumes:
+      - ./app:/app
