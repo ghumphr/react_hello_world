@@ -1,5 +1,4 @@
-# react_hello_world
-Hello, World with React.js
+# Hello, World with React.js
 
 To use:
 
